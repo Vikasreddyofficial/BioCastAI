@@ -1,0 +1,14 @@
+# Ignore virtual environment & dependencies
+venv/
+
+
+# Ignore datasets
+actors_dataset/
+
+# Ignore model weights & large binaries
+*.h5
+*.pyd
+*.dll
+
+
+
